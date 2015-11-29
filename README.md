@@ -19,6 +19,8 @@ Ver.1.x.x highlights multibyte alphabets(Ａ-Ｚａ-ｚ), numbers(０-９),and b
 
 ＃＄％＆’（）＝～｜‘｛＋＊｝＜＞＿－＾￥＠；：　'
 
+![screen shot](https://c1.staticflickr.com/1/605/23275931332_d67e1bc301_b.jpg "screen shot")
+
 If you need to know about original features and technical details, visit [DennisKehrig's page](https://github.com/DennisKehrig/brackets-show-whitespace).
 
 ## License
