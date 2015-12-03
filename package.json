@@ -3,7 +3,7 @@
     "title": "Highlight Multibyte Symbols",
     "description": "Highlight multibyte symbols and alphabets.(including Show Whitespace by DennisKehrig) NOTE:Please disable Show Whitespace before installation.",
     "homepage": "https://github.com/assialiholic/brackets-highlight-multibyte-symbols",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": ["highlight","multibyte"],
     "author": "assialiholic <atsushi.handa@assialiholic.net> (https://github.com/assialiholic)",
     "license": "MIT",
