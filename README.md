@@ -23,6 +23,10 @@ Ver.1.x.x highlights multibyte alphabets(Ａ-Ｚａ-ｚ), numbers(０-９),and b
 
 If you need to know about original features and technical details, visit [DennisKehrig's page](https://github.com/DennisKehrig/brackets-show-whitespace).
 
+## Known Isuues
+
+Conflict with Show Whitespace when install.
+
 ## License
 
 The MIT License (MIT)
